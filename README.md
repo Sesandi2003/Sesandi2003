@@ -1,12 +1,12 @@
 <div align="center">
-  <h1>Hi there, I'm <a href="https://github.com/YOUR_USERNAME">Your Name</a>! 👋</h1>
+  <h1>Hi there, I'm <a href="https://github.com/Sesandi2003">Sesandi Samarakoon</a>! 👋</h1>
   <h3>Computer Engineering Undergraduate</h3>
   <p>
     Building scalable mobile applications and cloud-native backend solutions.
   </p>
 
   <p>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/sesandi-samarakoon-5a280a329/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
     <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   </p>
 </div>
