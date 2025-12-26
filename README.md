@@ -1,16 +1,52 @@
-## Hi there 👋
+<div align="center">
+  <h1>Hi there, I'm <a href="https://github.com/YOUR_USERNAME">Your Name</a>! 👋</h1>
+  <h3>Computer Engineering Undergraduate</h3>
+  <p>
+    Building scalable mobile applications and cloud-native backend solutions.
+  </p>
 
-<!--
-**Sesandi2003/Sesandi2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <p>
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  </p>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+**Mobile Development**
+<br>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+
+**Backend & Cloud**
+<br>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description & Tech Stack |
+| :--- | :--- |
+| **Borcelle** <br> _Real-Time Auction Marketplace_ | 🛒 **Architected a cross-platform auction ecosystem** allowing businesses to launch custom marketplaces.<br>⚡ **Key Tech:** React Native, Node.js, AWS (EC2, RDS, S3), WebSockets, Clerk.<br>✨ **Highlights:** Live bid synchronization, Microservices backend, Role-based auth.<br>🔗 [View Repo](https://github.com/YOUR_USERNAME/REPO_NAME) |
+| **Shopple** <br> _Smart E-Commerce Price Tracker_ | 📊 **Price comparison app for local retailers (Keells/Cargills).**<br>⚡ **Key Tech:** Flutter, Dart, Firebase (Firestore, Functions), fl_chart.<br>✨ **Highlights:** Fuzzy matching search, local caching strategies, interactive price history charts.<br>🔗 [View Repo](https://github.com/YOUR_USERNAME/REPO_NAME) |
+| **Wallet** <br> _Personal Finance Tracker_ | 💸 **Full-stack finance management with real-time tracking.**<br>⚡ **Key Tech:** React Native, Neon (Serverless Postgres), Upstash Redis, Express.<br>✨ **Highlights:** Visualized insights, API rate limiting, Automated cron jobs for system health.<br>🔗 [View Repo](https://github.com/YOUR_USERNAME/REPO_NAME) |
+| **Supermarket AI** <br> _NLP Chatbot_ | 🤖 **Intelligent chatbot that parses natural language into shopping lists.**<br>⚡ **Key Tech:** Python, Flask, spaCy (NLP).<br>✨ **Highlights:** Context-aware intent detection, custom NLP pipelines for product recognition.<br>🔗 [View Repo](https://github.com/YOUR_USERNAME/REPO_NAME) |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph"  />
+</div>
