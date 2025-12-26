@@ -37,16 +37,16 @@
 
 | Project | Description & Tech Stack |
 | :--- | :--- |
-| **Borcelle** <br> _Real-Time Auction Marketplace_ | 🛒 **Architected a cross-platform auction ecosystem** allowing businesses to launch custom marketplaces.<br>⚡ **Key Tech:** React Native, Node.js, AWS (EC2, RDS, S3), WebSockets, Clerk.<br>✨ **Highlights:** Live bid synchronization, Microservices backend, Role-based auth.<br>🔗 [View Repo](https://github.com/YOUR_USERNAME/REPO_NAME) |
-| **Shopple** <br> _Smart E-Commerce Price Tracker_ | 📊 **Price comparison app for local retailers (Keells/Cargills).**<br>⚡ **Key Tech:** Flutter, Dart, Firebase (Firestore, Functions), fl_chart.<br>✨ **Highlights:** Fuzzy matching search, local caching strategies, interactive price history charts.<br>🔗 [View Repo](https://github.com/YOUR_USERNAME/REPO_NAME) |
-| **Wallet** <br> _Personal Finance Tracker_ | 💸 **Full-stack finance management with real-time tracking.**<br>⚡ **Key Tech:** React Native, Neon (Serverless Postgres), Upstash Redis, Express.<br>✨ **Highlights:** Visualized insights, API rate limiting, Automated cron jobs for system health.<br>🔗 [View Repo](https://github.com/YOUR_USERNAME/REPO_NAME) |
-| **Supermarket AI** <br> _NLP Chatbot_ | 🤖 **Intelligent chatbot that parses natural language into shopping lists.**<br>⚡ **Key Tech:** Python, Flask, spaCy (NLP).<br>✨ **Highlights:** Context-aware intent detection, custom NLP pipelines for product recognition.<br>🔗 [View Repo](https://github.com/YOUR_USERNAME/REPO_NAME) |
+| **Borcelle** <br> _Real-Time Auction Marketplace_ | 🛒 **Architected a cross-platform auction ecosystem** allowing businesses to launch custom marketplaces.<br>⚡ **Key Tech:** React Native, Node.js, AWS (EC2, RDS, S3), WebSockets, Clerk.<br>✨ **Highlights:** Live bid synchronization, Microservices backend, Role-based auth.<br> |
+| **Shopple** <br> _Smart E-Commerce Price Tracker_ | 📊 **Price comparison app for local retailers (Keells/Cargills).**<br>⚡ **Key Tech:** Flutter, Dart, Firebase (Firestore, Functions), fl_chart.<br>✨ **Highlights:** Fuzzy matching search, local caching strategies, interactive price history charts.<br> |
+| **Wallet** <br> _Personal Finance Tracker_ | 💸 **Full-stack finance management with real-time tracking.**<br>⚡ **Key Tech:** React Native, Neon (Serverless Postgres), Upstash Redis, Express.<br>✨ **Highlights:** Visualized insights, API rate limiting, Automated cron jobs for system health.<br>|
+| **Supermarket AI** <br> _NLP Chatbot_ | 🤖 **Intelligent chatbot that parses natural language into shopping lists.**<br>⚡ **Key Tech:** Python, Flask, spaCy (NLP).<br>✨ **Highlights:** Context-aware intent detection, custom NLP pipelines for product recognition.<br> |
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sesandi2003&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sesandi2003&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph"  />
 </div>
