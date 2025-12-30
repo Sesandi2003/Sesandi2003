@@ -2,7 +2,7 @@
   <h1>Hi there, I'm <a href="https://github.com/Sesandi2003">Sesandi Samarakoon</a>! 👋</h1>
   <h3>Computer Engineering Undergraduate</h3>
   <p>
-    Building scalable mobile applications and cloud-native backend solutions.
+    Building scalable web and mobile applications and cloud-native backend solutions.
   </p>
 
   <p>
